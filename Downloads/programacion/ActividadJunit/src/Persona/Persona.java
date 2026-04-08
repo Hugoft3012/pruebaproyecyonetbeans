@@ -10,7 +10,8 @@ package Persona;
  * @author hugo.fidtra
  */
 public class Persona {
-
+    
+    //hola buenos dias a todos
     private String nombre;
     private int edad;
     private double altura; // en metros
